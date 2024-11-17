@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.Resumen{
+    display:flex;
+    justify-content: center;
+    color: #f1f1f1;
+}
+
+
+.info{
+    display:flex;
+    justify-content: center;
+    color: #f1f1f1;
+}
+
+table {
+    border-collapse: separate;
+  }
